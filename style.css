@@ -1,0 +1,57 @@
+
+
+}
+ #first{
+ 	width: 200px;
+ 	height: 100px;
+ 	background-color:blue; 
+ }
+
+
+ #second{
+ 	width: 200px;
+ 	height: 100px;
+ 	background-color:red;
+    display: none;
+ }
+  #one{
+ 	width: 200px;
+ 	height: 100px;
+ 	background-color:green;
+    display: none;
+ }
+  #two{
+ 	width: 200px;
+ 	height: 100px;
+ 	background-color:orange;
+   
+ }
+  .three{
+ 	
+ 	background-color:blue;
+ 	width: 220px;
+ 	padding: 10px;
+ 	margin: 0px;
+ 	font-size: 20px;
+ 	border: 2px solid white;
+   
+ }
+ 
+ a{
+ 	text-decoration: none;
+ 	color: white;
+ }
+
+ .three:hover{
+ 	background:red;
+ 	width: 220px;
+ }
+#four{
+   width: 200px; 
+   height: 100px;
+   background: green;
+  
+}
+.top{
+	
+}
